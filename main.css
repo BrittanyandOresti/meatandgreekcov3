@@ -1,0 +1,39 @@
+html, body{
+ margin: 0;
+ padding: 0;
+}
+header{
+ margin: -10%;
+ text-align: center;
+}
+#mainlogo{
+ width: 65vw;
+ height: 55vh;
+}
+.Note{
+ margin:auto;
+ width: 70vw;
+ height: 50;
+ text-align: center;
+
+}
+.logos
+{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+#truck_logo,#eatery_logo,#market_logo{
+ width: 250px;
+ height: 250px;
+}
+a{
+text-decoration: none;
+}
+/* .MG_Eatery {
+ display: flex;
+ flex-direction: column;
+} */
+/* input {
+font-size: 2em;
+} */
